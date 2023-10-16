@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=210&section=header&text=Hello,%20welcome%20to%20hyojae's%20github&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=210&section=header&text=Hello,%20welcome%20to%20hyojae's%20github&fontSize=40&fontAlign=70)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyo-jae-jung&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyo-jae-jung&layout=compact&theme=onedark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjswogywo)](https://solved.ac/cjswogywo/)
