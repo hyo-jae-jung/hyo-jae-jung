@@ -1,4 +1,3 @@
-# JUNG HYO JAE
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyo-jae-jung&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyo-jae-jung&layout=compact&theme=onedark)
