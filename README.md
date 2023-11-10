@@ -20,9 +20,12 @@
 
 ### web
 ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-06B6D4.svg?&style=for-the-badge&logo=Tailwindcss&logoColor=white)
+![HTMX]
 
-### Library
+### Data
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
+
+### AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ### IDE
