@@ -7,6 +7,8 @@
 ### Comunication
 [HWP]
 ![Excel](https://img.shields.io/badge/Excel-217346.svg?&style=for-the-badge&logo=Excel&logoColor=white)
+![Power Point](https://img.shields.io/badge/PPT-B7472A.svg?&style=for-the-badge&logo=PPT&logoColor=white)
+
 ### OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
 
