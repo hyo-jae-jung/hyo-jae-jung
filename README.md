@@ -19,7 +19,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 
 ### web
-![Tailwindcss](https://img.shields.io/badge/Tailwindcss-#06B6D4.svg?&style=for-the-badge&logo=Tailwindcss&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwindcss-06B6D4.svg?&style=for-the-badge&logo=Tailwindcss&logoColor=white)
 
 ### Library
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
