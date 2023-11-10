@@ -25,7 +25,7 @@
 
 ### web
 ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-06B6D4.svg?&style=for-the-badge&logo=Tailwindcss&logoColor=white)
-![HTMX]
+<span style="color:blue">HTM</span><span style="color:red">X</span>
 
 ### Data
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
