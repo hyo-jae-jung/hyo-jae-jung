@@ -4,7 +4,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjswogywo)](https://solved.ac/cjswogywo/)
 
 # Skill
-### Comunication
+### Comunications
 <span style="color:white">HWP</span>
 ![Excel](https://img.shields.io/badge/Excel-217346.svg?&style=for-the-badge&logo=Excel&logoColor=white)
 ![Power Point](https://img.shields.io/badge/PPT-B7472A.svg?&style=for-the-badge&logo=PPT&logoColor=white)
