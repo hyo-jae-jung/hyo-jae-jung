@@ -4,44 +4,22 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjswogywo)](https://solved.ac/cjswogywo/)
 
 # Skills
-### Comunication
-<span style="color:white">HWP</span>
-![Excel](https://img.shields.io/badge/Excel-217346.svg?&style=for-the-badge&logo=Excel&logoColor=white)
-![Power Point](https://img.shields.io/badge/PPT-B7472A.svg?&style=for-the-badge&logo=PPT&logoColor=white)
 
-### OS
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
+|        Type        |                                                                                                                                                                                                       Current                                                                                                                                                                                                       |                                                                                                       Used                                                                                                       |
+| :----------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    Comunication    |                                                   ![HWP](https://img.shields.io/badge/HWP-2496ED.svg?&style=for-the-badge&logo=&logoColor=white)![Excel](https://img.shields.io/badge/Excel-217346.svg?&style=for-the-badge&logo=Excel&logoColor=white)![Power Point](https://img.shields.io/badge/PPT-B7472A.svg?&style=for-the-badge&logo=PPT&logoColor=white)                                                    |                                                                                                                                                                                                                  |
+|      Dev Env       | ![uv](https://img.shields.io/badge/uv-DE5FE9.svg?&style=for-the-badge&logo=uv&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white) |                                                                                                                                                                                                                  |
+|         OS         |                                                                                                                                                       ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)                                                                                                                                                       |                                                                                                                                                                                                                  |
+|      Language      |                                                                                           ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)![Javascript](https://img.shields.io/badge/javacript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)                                                                                           |                                                                                                                                                                                                                  |
+|   Data Analysis    |                                                                                                                                                     ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)                                                                                                                                                      |                                                 ![r](https://img.shields.io/badge/r-276DC3.svg?&style=for-the-badge&logo=r&logoColor=navy&BackgroundColor=wight)                                                 |
+| Data Vizualization |                                                                                               ![Plotly](https://img.shields.io/badge/plotly-7A76FF.svg?&style=for-the-badge&logo=plotly&logoColor=white)![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)                                                                                               |                                                 ![r](https://img.shields.io/badge/r-276DC3.svg?&style=for-the-badge&logo=r&logoColor=navy&BackgroundColor=wight)                                                 |
+|         AI         |                                                                                                                                                    ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)                                                                                                                                                    |                                              ![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)                                              |
+|       Server       |                                                                                                                                                    ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white)                                                                                                                                                    |                                                    ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)                                                    |
+|      DataBase      |                                                                                                  ![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)                                                                                                  | ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)![Mongo](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white) |
+|     Web Server     |                                                                                                                                                     ![svelte](https://img.shields.io/badge/svelte-FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white)                                                                                                                                                      |                                                                                                                                                                                                                  |
+|       Web UI       |                                                                                                                                                 ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)                                                                                                                                                 |                                            ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-06B6D4.svg?&style=for-the-badge&logo=Tailwindcss&logoColor=white)                                             |
 
-### Language
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
-### Database
-![Mongo](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
-
-### server
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
-
-### web
-![Tailwindcss](https://img.shields.io/badge/Tailwindcss-06B6D4.svg?&style=for-the-badge&logo=Tailwindcss&logoColor=white)
-<span style="color:blue">HTM</span><span style="color:red">X</span>
-
-### Data
-![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
-
-### AI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
-
-### IDE
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-
-### Tools
-GPT
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 <!--
 **hyo-jae-jung/hyo-jae-jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
